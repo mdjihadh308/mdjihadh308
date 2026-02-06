@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm MD ABDULLAH AL JIHAD</h1>
-<h3 align="center">[আপনার পেশা/স্ট্যাটাস]</h3>
+<h3 align="center"> https://readme-typing-svg.herokuapp.com/demo/?color=F75D9C&background=FFFFFF00&lines=Hi+i'm+full-stack+developer.
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing Animation" />
