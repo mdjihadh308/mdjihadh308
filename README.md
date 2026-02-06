@@ -25,9 +25,6 @@
 
 - ⚡ Fun fact **I can spend hours coding without getting bored.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 ## 🛠️ My All Skill
 ### Frontend
@@ -94,8 +91,8 @@
 ---
 
 ## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=radical&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdjihadh308&theme=radical&hide_border=true)
 
 ---
 
-⭐ **From** [YOUR_NAME](https://github.com/YOUR_USERNAME)
+⭐ **From** [YOUR_NAME](https://github.com/mdjihadh308)
