@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **HTML, CSS, JAVA SCRIPT, PYTHON ect.**
 
-- 👨‍💻 All of my projects are available at [example.com](mdjihadh308.github.io)
+- 👨‍💻 All of my projects are available at [mdjihadh308.github.io](mdjihadh308.github.io)
 
 - 📝 I regularly write articles.**
 
