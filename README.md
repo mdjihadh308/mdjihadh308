@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mdjihadh308@gmail.com**
 
-- 📄 Know about my experiences [example.com](mdjihadh308.github.io)
+- 📄 Know about my experiences [mdjihadh308.github.io](mdjihadh308.github.io)
 
 - ⚡ Fun fact **I can spend hours coding without getting bored.**
 
