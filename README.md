@@ -57,35 +57,13 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-## 📊 GitHub Stats
-<div align="center">
-  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdjihadh308&show_icons=true&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdjihadh308&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjihadh308&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mdjihadh308&theme=radical&no-frame=true&margin-w=15)
-
-</div>
-
----
-
-## 🏆 GitHub Extra Pins
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdjihadh308&repo=REPO_NAME&theme=radical)](https://github.com/mdjihadh308/REPO_NAME)
-
----
-
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=mdjihadh308&color=blue&style=flat)
-
----
 
 ## 🌐 Connect With Me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mdjihadh308)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mdjihadh308)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://mdjihadh308.github.io)
 ---
 
 ## 📈 Activity Graph
