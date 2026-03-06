@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **HTML, CSS, JAVA SCRIPT, PYTHON ect.**
 
-- 👨‍💻 All of my projects are available at [example.com](example.com)
+- 👨‍💻 All of my projects are available at [example.com](mdjihadh308.github.io)
 
 - 📝 I regularly write articles on [example.com](example.com)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mdjihadh308@gmail.com**
 
-- 📄 Know about my experiences [example.com](example.com)
+- 📄 Know about my experiences [example.com](mdjihadh308.github.io)
 
 - ⚡ Fun fact **I can spend hours coding without getting bored.**
 
