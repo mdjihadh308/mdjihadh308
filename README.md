@@ -66,9 +66,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://mdjihadh308.github.io)
 ---
 
-## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdjihadh308&theme=radical&hide_border=true)
-
 ---
 
 ⭐ **From** [MD ABDULLAH AL JIHAD](https://github.com/mdjihadh308)
