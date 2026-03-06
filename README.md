@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [example.com](mdjihadh308.github.io)
 
-- 📝 I regularly write articles on [example.com](example.com)
+- 📝 I regularly write articles.**
 
 - 💬 Ask me about **HTML, CSS, JAVA-SCRIPT, PYTHON, DATABASES.**
 
